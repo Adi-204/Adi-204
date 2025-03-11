@@ -4,6 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
 <br><br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Adi-204)
+<br><br>
+
 <img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
 
 
@@ -16,8 +19,6 @@
 💡 Transforming ideas into impactful software solutions. Open to collaborations-let’s build something amazing together! 🚀
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adi-204)
-<br><br>
 
 ![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true)  
 <br><br>
