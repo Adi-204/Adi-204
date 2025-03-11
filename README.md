@@ -13,6 +13,7 @@
 
 🌱 I’m currently learning Jest testing in React and advanced frontend/backend development with Next.js.
 
+💡 Transforming ideas into impactful software solutions. Open to collaborations-let’s build something amazing together! 🚀
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adi-204)
