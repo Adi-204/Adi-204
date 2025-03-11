@@ -19,6 +19,8 @@
 
 ![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact)
+
 
 [linkedin]: https://www.linkedin.com/in/adi-boghawala/
 [mail]: mailto:boghawalaadi@gmail.com
