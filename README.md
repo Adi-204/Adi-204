@@ -3,15 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
 
-<img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
+<div align="center">
+  <img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
+</div>
 
 🤖 Love building things at the union of Machine Learning and Web Dev.
 
 👯 I’m looking to collaborate on **open-source projects** and **full-stack web applications** projects.
 
 🌱 I’m currently learning Jest testing in React and advanced frontend/backend development with Next.js.
-
-
 
 ---
 
