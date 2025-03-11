@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
 
-<div align="center">
-  <img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
-</div>
+
+<img align="right" height="100px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
+
 
 🤖 Love building things at the union of Machine Learning and Web Dev.
 
