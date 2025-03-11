@@ -17,7 +17,7 @@
 
 ![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true)  
 
-![Adi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adi-204)  
+![Adi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adi-204&theme=radical)  
 
 
 [linkedin]: https://www.linkedin.com/in/adi-boghawala/
