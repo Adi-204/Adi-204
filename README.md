@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
 
 
-<img align="right" height="100px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
+<img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
 
 
 🤖 Love building things at the union of Machine Learning and Web Dev.
@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning Jest testing in React and advanced frontend/backend development with Next.js.
 
----
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adi-204)
 
