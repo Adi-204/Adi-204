@@ -14,7 +14,7 @@
 
 👯 I’m looking to collaborate on **open-source projects** and **full-stack web applications** projects.
 
-🌱 I’m currently learning Jest testing in React and advanced frontend/backend development with Next.js.
+🌱 I’m currently learning Jest testing and advanced frontend/backend development with Next.js.
 
 💡 Transforming ideas into impactful software solutions. Open to collaborations-let’s build something amazing together! 🚀
 <br><br>
