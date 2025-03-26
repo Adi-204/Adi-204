@@ -26,5 +26,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact)
 <br><br>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adi-204)  
+<br><br>
+
 [linkedin]: https://www.linkedin.com/in/adi-boghawala/
 [mail]: mailto:boghawalaadi@gmail.com
