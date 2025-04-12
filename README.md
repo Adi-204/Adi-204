@@ -19,12 +19,11 @@
 💡 Transforming ideas into impactful software solutions. Open to collaborations-let’s build something amazing together! 🚀
 <br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true" alt="Adi's GitHub Stats" />
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact" alt="Top Languages" />
-<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true" alt="Adi's GitHub Stats" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adi-204)  
-<br><br>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact" alt="Top Languages" /></p>
+
+<p><img align="centre" src="https://streak-stats.demolab.com/?user=Adi-204" alt="GitHub Streak" /></p>
 
 [linkedin]: https://www.linkedin.com/in/adi-boghawala/
 [mail]: mailto:boghawalaadi@gmail.com
