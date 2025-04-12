@@ -20,7 +20,7 @@
 <br><br>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true" alt="Adi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact" alt="Top Languages" />
 </div>
