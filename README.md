@@ -20,16 +20,11 @@
 <br><br>
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true" alt="Adi's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true" alt="Adi's GitHub Stats" style="margin-right: 40px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact" alt="Top Languages" />
+</div>
+<br><br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Adi-204)  
 <br><br>
