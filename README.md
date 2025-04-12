@@ -19,11 +19,8 @@
 💡 Transforming ideas into impactful software solutions. Open to collaborations-let’s build something amazing together! 🚀
 <br><br>
 
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true" alt="Adi's GitHub Stats" style="margin-right: 40px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact" alt="Top Languages" />
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adi-204&show_icons=true" alt="Adi's GitHub Stats" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-204&layout=compact" alt="Top Languages" />
 <br><br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Adi-204)  
