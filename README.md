@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
+[![Twitter Badge](https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)][twitter]
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adi-204)
@@ -29,3 +30,4 @@
 
 [linkedin]: https://www.linkedin.com/in/adi-boghawala/
 [mail]: mailto:boghawalaadi@gmail.com
+[twitter]: https://x.com/AdiBoghawala
