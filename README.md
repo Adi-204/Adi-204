@@ -8,8 +8,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Adi-204)
 <br><br>
 
-<img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/zVb0n3YCIAFLTxOsd5/giphy.gif" />
-
 🤖 Love building things at the union of Machine Learning and Web Dev.
 
 👯 I’m looking to collaborate on **open-source projects** and **full-stack web applications** projects.
