@@ -19,6 +19,7 @@ I'm a core maintainer of the [AsyncAPI Generator](https://github.com/asyncapi/ge
 
 ## Tooling
 
+- [AI-assisted maintenance](https://github.com/asyncapi/generator/tree/master/.claude/skills) - Agent guidelines, AI code review setup, and agent skills that let contributors and maintainers automate repetitive work in the generator.
 - [@asyncapi/keeper](https://github.com/asyncapi/generator/tree/master/apps/keeper) - A library I started for validating messages against AsyncAPI documents, used by the generated clients.
 - [@asyncapi/generator-components](https://github.com/asyncapi/generator/tree/master/packages/components) - Reusable components for building templates in any language, so templates don't duplicate the same logic.
 - [WebSocket client templates](https://github.com/asyncapi/generator/tree/master/packages/templates/clients/websocket) - Templates that generate ready-to-use WebSocket clients in JavaScript, Python, Dart and Java, with one shared test suite across all of them.
@@ -34,13 +35,6 @@ I write on [Medium](https://medium.com/@adiboghawala), mostly about open source 
 
 ## Programs
 
-- **Google Summer of Code 2025**, AsyncAPI: [AsyncAPI Generator Maintainership](https://summerofcode.withgoogle.com/programs/2025/projects/MsWQPcNn), mentored by [Lukasz Gornicki](https://github.com/derberg)
+- **Google Summer of Code 2025**, AsyncAPI: [AsyncAPI Generator Maintainership](https://summerofcode.withgoogle.com/programs/2025/projects/MsWQPcNn)
+- **AsyncAPI Maintainer Program 2026**: mentor for the AsyncAPI Generator
 - **Kharagpur Winter of Code 2024**
-
-<details>
-  <summary>Earlier projects</summary>
-
-- [SkinCancerClassifier](https://github.com/Adi-204/SkinCancerClassifier) - A CNN that classifies dermoscopy images of skin lesions into seven disease classes.
-- [python-mqtt-client-template](https://github.com/Adi-204/python-mqtt-client-template) - An AsyncAPI Generator template for a Python MQTT client.
-
-</details>
