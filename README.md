@@ -20,11 +20,11 @@ I'm a core maintainer of the [AsyncAPI Generator](https://github.com/asyncapi/ge
 ## Tooling
 
 - [AI-assisted maintenance](https://github.com/asyncapi/generator/tree/master/.claude/skills) - Agent guidelines, AI code review setup, and agent skills that let contributors and maintainers automate repetitive work in the generator.
-- [@asyncapi/keeper](https://github.com/asyncapi/generator/tree/master/apps/keeper) - A library I started for validating messages against AsyncAPI documents, used by the generated clients.
-- [@asyncapi/generator-components](https://github.com/asyncapi/generator/tree/master/packages/components) - Reusable components for building templates in any language, so templates don't duplicate the same logic.
+- [AsyncAPI Keeper](https://github.com/asyncapi/generator/tree/master/apps/keeper) - A library I started for validating messages against AsyncAPI documents, used by the generated clients.
+- [Generator Components](https://github.com/asyncapi/generator/tree/master/packages/components) - Reusable components for building templates in any language, so templates don't duplicate the same logic.
 - [Baked-in templates](https://github.com/asyncapi/generator/tree/master/packages/templates) - Official templates shipped inside the generator, like the WebSocket clients for JavaScript, Python, Dart and Java and the Kafka Java Quarkus client.
-- [@asyncapi/generator-hooks](https://github.com/asyncapi/generator/tree/master/apps/hooks) - Built-in lifecycle hooks for the generator, like saving the bundled AsyncAPI document next to the generated output.
-- [@asyncapi/generator-react-sdk](https://github.com/asyncapi/generator/tree/master/apps/react-sdk) - The React render engine templates are written with, currently being upgraded to React 18.
+- [Generator Hooks](https://github.com/asyncapi/generator/tree/master/apps/hooks) - Built-in lifecycle hooks for the generator, like saving the bundled AsyncAPI document next to the generated output.
+- [Generator React SDK](https://github.com/asyncapi/generator/tree/master/apps/react-sdk) - The React render engine templates are written with, currently being upgraded to React 18.
 - [AsyncAPI CLI](https://github.com/asyncapi/cli) - The command line tool for working with AsyncAPI documents, which runs the generator under the hood.
 - [Headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI, where I contribute fixes to the app and its plugins.
 
